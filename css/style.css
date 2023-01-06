@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px,
+
+}
+a, ul, li {
+    font-style: none;
+    text-decoration: none;
+}
+
+/*INICIO MAIN*/
+
+/*FIN MAIN */
+
+/*FOOTER */
+
+.contenedor-footer {
+    background-color: rgb(230, 230, 117);
+    color: #7a7a7a;
+  }
+  
+  
+
+/*FIN FOOTER */

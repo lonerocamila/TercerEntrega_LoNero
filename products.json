@@ -1,0 +1,31 @@
+[
+    {
+    "id": 8779,
+    "precio": 500,
+    "title": "pack no-code 360°",
+    "img": "link"
+    
+},
+{
+    "id": 8569,
+    "precio": 500,
+    "title": "pack no-code medium",
+    "img":"link"
+
+},
+{
+    "id": 8759,
+    "precio": 500,
+    "title": "pack no-code base",
+    "img":"link"
+
+
+},
+{
+    "id": 8709,
+    "precio": 500,
+    "title": "pack no-code pre-base",
+    "img":"link"
+}
+
+]
